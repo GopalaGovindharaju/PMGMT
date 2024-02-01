@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PMGMT/static/css/main.9b929a4a.css",
+    "main.js": "/PMGMT/static/js/main.fd328330.js",
+    "static/js/787.cda612ba.chunk.js": "/PMGMT/static/js/787.cda612ba.chunk.js",
+    "index.html": "/PMGMT/index.html",
+    "main.9b929a4a.css.map": "/PMGMT/static/css/main.9b929a4a.css.map",
+    "main.fd328330.js.map": "/PMGMT/static/js/main.fd328330.js.map",
+    "787.cda612ba.chunk.js.map": "/PMGMT/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b929a4a.css",
+    "static/js/main.fd328330.js"
+  ]
+}
